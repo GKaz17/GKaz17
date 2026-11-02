@@ -7,7 +7,7 @@
   <a href="#what-i-build">Skills</a> ·
   <a href="#technology">Technology</a> ·
   <a href="#github-activity">GitHub activity</a> ·
-  <a href="mailto:21100471@virtualwindow.co.za">Contact</a>
+  <a href="mailto:gedeonkazadi017@yahoo.com">Contact</a>
 </p>
 
 <p align="center">
@@ -114,9 +114,9 @@ Repository statistics checked on **2 November 2026**, before this documentation 
 ## Get in touch
 
 **Gedeon Kazadi** · South Africa  
-[21100471@virtualwindow.co.za](mailto:21100471@virtualwindow.co.za) · [GitHub @GKaz17](https://github.com/GKaz17)
+[gedeonkazadi017@yahoo.com](mailto:gedeonkazadi017@yahoo.com) · [GitHub @GKaz17](https://github.com/GKaz17)
 
 
 ## Credits
 
-The profile graphics use a custom portfolio layout. ChatGPT and Codex assisted with unfamiliar technical solutions and portfolio documentation. This is not a reproduction of the example student profiles supplied in class. Project-specific designs, libraries, imagery and collaborators are credited in each project README.
+Designs, libraries, assets and contributors are credited in each project’s README.
