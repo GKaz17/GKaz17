@@ -119,4 +119,4 @@ Repository statistics checked on **2 November 2026**, before this documentation 
 
 ## Credits
 
-The profile graphics use a custom portfolio layout prepared with OpenAI ChatGPT/Codex assistance. This is not a reproduction of the example student profiles supplied in class. Project-specific designs, libraries, imagery and collaborators are credited in each project README.
+The profile graphics use a custom portfolio layout. This is not a reproduction of the example student profiles supplied in class. Project-specific designs, libraries, imagery and collaborators are credited in each project README.
