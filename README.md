@@ -10,11 +10,15 @@
   <a href="mailto:21100471@virtualwindow.co.za">Contact</a>
 </p>
 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/103114101?v=4" width="104" alt="Gedeon Kazadi’s GitHub profile image" />
+</p>
+
 ## About me
 
 I'm **Gedeon Kazadi**, an Interactive Development student at **Open Window**, based in South Africa. I build web applications from the interface through to the database and deployment.
 
-My work brings together interests in sport, community and practical tools. I enjoy giving a project its own visual identity, then working out how the data and user journeys should fit together. Alongside web development, I experiment with physical computing and micro-robotics.
+My work brings together interests in sport, community and practical tools. I enjoy giving a project its own visual identity, then working out how the data and user journeys should fit together. Alongside web development, I experiment with physical computing and micro-robotics. My career focus is full-stack web development, with an interest in junior developer opportunities where I can build useful interfaces and reliable data flows.
 
 ## Portfolio 2026
 
@@ -22,7 +26,7 @@ Four core DV200 projects, organised by semester. Each project explores a differe
 
 ### Semester 1
 
-<a href="https://dv200-football-dashboard.vercel.app/">
+<a href="https://github.com/GKaz17/dv200-football-dashboard">
   <img src="assets/pitchstats.svg" width="100%" alt="01 — PitchStats. Football data and interactive comparisons." />
 </a>
 
@@ -31,6 +35,7 @@ Four core DV200 projects, organised by semester. Each project explores a differe
 **Built with:** React · JavaScript · Chart.js · API-SPORTS  
 **Focus:** API integration, data visualisation and responsive interfaces.
 
+[View repository ↗](https://github.com/GKaz17/dv200-football-dashboard) ·
 [Open live app ↗](https://dv200-football-dashboard.vercel.app/)
 
 <a href="https://github.com/gabri3llp/dv200_keyboardlickers_studentslide">
@@ -40,7 +45,7 @@ Four core DV200 projects, organised by semester. Each project explores a differe
 **StudentSlide** is a group-built marketplace for students to buy, sell and trade second-hand items. The application brings together listings, accounts and administrative review.
 
 **Built with:** MongoDB · Express · React · Node.js  
-**My role:** Admin Manager in a four-person team.
+**My contribution:** Listings and admin moderation, marketplace integration and merge planning in a four-person team. Individual responsibilities are recorded in the shared repository.
 
 [View group repository ↗](https://github.com/gabri3llp/dv200_keyboardlickers_studentslide)
 
@@ -92,9 +97,16 @@ Four core DV200 projects, organised by semester. Each project explores a differe
 
 ## GitHub activity
 
-<img src="assets/github-snapshot.svg" width="100%" alt="Public GitHub snapshot checked 30 October 2026: 5 followers and 5 following. Four core portfolio projects." />
+<img src="assets/github-snapshot.svg" width="100%" alt="Repository snapshot, 2 November 2026: four DV200 projects, 138 reachable commits and 287 tracked files across the four default-branch snapshots." />
 
-The follower snapshot is dated **30 October 2026**. Explore my profile for current activity:
+Repository statistics checked on **2 November 2026**, before this documentation update. Counts include each repository’s reachable commit history and tracked files at the linked revision; StudentSlide is a shared team repository, so its totals are not my personal contribution count.
+
+| Main DV200 project | Commits | Tracked files | Snapshot |
+| --- | ---: | ---: | --- |
+| [PitchStats](https://github.com/GKaz17/dv200-football-dashboard) | 24 | 23 | [`cb0da93`](https://github.com/GKaz17/dv200-football-dashboard/tree/cb0da93b2bcd32c72909ac363fa72e2119779958) |
+| [StudentSlide](https://github.com/gabri3llp/dv200_keyboardlickers_studentslide) | 78 | 68 | [`67936e0`](https://github.com/gabri3llp/dv200_keyboardlickers_studentslide/tree/67936e0afbea9bb4caae07cae36dbe0751173fed) |
+| [Blacktop Takeover](https://github.com/GKaz17/blacktop-takeover-dv) | 25 | 57 | [`594eeb4`](https://github.com/GKaz17/blacktop-takeover-dv/tree/594eeb473333f429bb767296e0090007f8df5f56) |
+| [TCSA](https://github.com/GKaz17/tcsa-rehabilitation-platform) | 11 | 139 | [`2222dc1`](https://github.com/GKaz17/tcsa-rehabilitation-platform/tree/2222dc11135ba8fee8ee8ac99e4b52eee0ba1a10) |
 
 [Contributions and activity ↗](https://github.com/GKaz17?tab=overview) ·
 [Public repositories ↗](https://github.com/GKaz17?tab=repositories)
@@ -104,3 +116,7 @@ The follower snapshot is dated **30 October 2026**. Explore my profile for curre
 **Gedeon Kazadi** · South Africa  
 [21100471@virtualwindow.co.za](mailto:21100471@virtualwindow.co.za) · [GitHub @GKaz17](https://github.com/GKaz17)
 
+
+## Credits
+
+The profile graphics use a custom portfolio layout prepared with OpenAI ChatGPT/Codex assistance. This is not a reproduction of the example student profiles supplied in class. Project-specific designs, libraries, imagery and collaborators are credited in each project README.
